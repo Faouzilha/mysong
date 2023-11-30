@@ -24,9 +24,7 @@ Vive le vent, vive le vent
 
 Merci Marie pck ...
 
-<<<<<<< HEAD
 Bon après j'aurai pu enchaîner sur du Mariah Carey, c'est pas mieux ?
-=======
 Moui non ça ira, on va déjà en entendre parler tout Noel
 Soit disant Damien allait créer des conflits à donf'...bof
 Bon après j'aurai pu enchaîner sur du Mariah Carey, c'est pas mieux ?
@@ -35,9 +33,43 @@ On efface mes lignes ici, pas contente :(
 Moui non ça ira, on va déjà en entendre parler tout Noel
 
 ALL I WANT FOR CHRISTMAS IS YOUUUUU!
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+
+=======
 >>>>>>> 78e84a3beeaf7f9eb78d5ddf4c26bed027ee107d
 uhbb,bub,yvntuhuiij;nji
 >>>>>>> a889e1ad80de2f68e59e5aa6e75f7838cfb0fb83
+<<<<<<< HEAD
+
+
+J'abandonne... :D 
+=======
+=======
+uhbb,bub,yvntuhuiij;nji
+B
+R
+Y
+T
+N
+E
+Y
+A
+U
+C
+H
+I
+O
+T
+T
+E
+S
+!
+!
+!
+uhbb,bub,yvntuhuiij;nji
+>>>>>>> 2b8f3af2be285614a001b1caac5281b8bc750abd
 Oh, baby, baby
 The reason I breathe is you (oh, yeah)
 Boy, you got me blinded
@@ -46,6 +78,11 @@ There's nothing that I wouldn't do
 It's not the way I planned it
 Show me how you want it to be
 Tell me, baby, 'cause I need to know now, oh, because
+<<<<<<< HEAD
+>>>>>>> a65f002de47ebd01d5e84eae100608b995ebcde3
+
+J'abandonne... :D 
+=======
 My loneliness is killing me (and I)
 I must confess I still believe (still believe)
 When I'm not with you I lose my mind
@@ -60,3 +97,6 @@ Don't you know I still believe
 That you will be here
 And give me a sign
 Hit me, baby, one more time
+>>>>>>> 2b8f3af2be285614a001b1caac5281b8bc750abd
+
+Bye bye, c'est la pause. 
