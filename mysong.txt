@@ -1,4 +1,5 @@
 Choisir une musique :
+<<<<<<< HEAD
 We are the champions
 Voici une nouvelle chanson pour 
 Tous les testeurs en herbe
@@ -27,6 +28,8 @@ Yo Yo Yo
 
 Plus magiques que le père Noel 
 plus mystérieux que le père Noel
+=======
+>>>>>>> 9c2624ded3c3e80042ba6c87fff6144b371ed375
 
 -- « Billie Jean » de Michael Jackson
 She was more like a beauty queen from a movie scene
@@ -38,10 +41,6 @@ She told me her name was Billie Jean, as she caused a scene
 Then every head turned with eyes that dreamed of being the one
 Who will dance on the floor in the round
 
-Come on, Barbie, let's go party (ah ah ah yeah)
-Come on, Barbie, let's go party (ooh oh, ooh oh)
-Come on, Barbie, let's go party (ah ah ah yeah)
-Come on, Barbie, let's go party (ooh oh, ooh oh)
 
 People always told me be careful of what you do
 And don't go around breaking young girls' hearts
@@ -78,4 +77,20 @@ Billie Jean is not my lover
 She's just a girl who claims that I am the one
 But the kid is not my son
 She says I am the one, but the kid is not my son
+
 She says I am the one, but the kid is not my son
+
+She says I am the one, but the kid is not my son
+Billie Jean is not my lover
+She's just a girl who claims that I am the one
+But the kid is not my son
+She says I am the one, but the kid is not my son
+She says I am the one
+You know what you did, (she says he is my son) breaking my heart babe
+She says I am the one
+Billie Jean is not my lover
+Billie Jean is not my lover
+Billie Jean is not my lover
+Billie Jean is not my lover (don't Billie Jean)
+Billie Jean is not my lover
+Billie Jean is not my lover
