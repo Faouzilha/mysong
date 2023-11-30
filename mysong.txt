@@ -1,35 +1,4 @@
 Choisir une musique :
-<<<<<<< HEAD
-We are the champions
-Voici une nouvelle chanson pour 
-Tous les testeurs en herbe
-Qui aime Git 
-Mais ne savent pas comment l'utiliser
-
-Nous serons un jour plus puissants
-Que tous les devs
-Et Damien est d'accord
-Yeah, Yeah, Yeah
-Don't stop me now
-
-iya, Barbie
-Hi, Ken
-You want to go for a ride?
-Sure, Ken
-Jump in
-I'm a Barbie girl, in the Barbie world
-Life in plastic, it's fantastic
-You can brush my hair, undress me everywhere
-Imagination, life is your creation
-Refrain
-Nous sommes les testeurs
-L'élite du service technique
-Yo Yo Yo
-
-Plus magiques que le père Noel 
-plus mystérieux que le père Noel
-=======
->>>>>>> 9c2624ded3c3e80042ba6c87fff6144b371ed375
 
 -- « Billie Jean » de Michael Jackson
 She was more like a beauty queen from a movie scene
