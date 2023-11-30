@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Choisir une musique :
 Maintenant, c'est reparti, tu dis que tu veux ta liberté
 Eh bien, qui suis-je pour te retenir ?
@@ -12,3 +13,6 @@ Oh, le tonnerre n'arrive que quand il pleut
 Les joueurs ne t'aiment que lorsqu'ils jouent
 Dis les femmes, elles viendront et elles partiront
 Quand la pluie te nettoiera, tu le sauras, tu le sauras
+=======
+Vive le vent, vive le vent
+>>>>>>> 0e1472ec46ae94e791785e79e40136e5845c876b
