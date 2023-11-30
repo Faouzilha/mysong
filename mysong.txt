@@ -31,6 +31,7 @@ Vive le vent, vive le vent
 
 Merci Marie pck ...
 
+<<<<<<< HEAD
 Bon après j'aurai pu enchaîner sur du Mariah Carey, c'est pas mieux ?
 >>>>>>> 5e06981829abc30903836cf2666f4be8969deef6
 Comme si un battement de coeur te rendait fou
@@ -41,3 +42,14 @@ Ooh, le tonnerre n'arrive que quand il pleut
 Les joueurs ne t'aiment que lorsqu'ils jouent
 Les femmes, elles viendront et elles partiront
 Quand la pluie te lavera, tu sauras
+=======
+Moui non ça ira, on va déjà en entendre parler tout Noel
+>>>>>>> 2d64fb5a3e5cac2ce62844a46f08136135baa40c
+
+
+bassem 
+Oh, le tonnerre n'arrive que quand il pleut
+Les joueurs ne t'aiment que lorsqu'ils jouent
+Dis les femmes, elles viendront et elles partiront
+Quand la pluie te nettoiera, tu le sauras, tu le sauras
+Tu sauras, oh oh, tu sauras
