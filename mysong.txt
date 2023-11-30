@@ -1,1 +1,5 @@
 Choisir une musique :
+Voici une nouvelle chanson pour 
+Tous les testeurs en herbe
+Qui aime Git 
+Mais ne savent pas comment l'utiliser
